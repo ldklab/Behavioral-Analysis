@@ -1,0 +1,10 @@
+seaborn
+joblib
+datasketch
+rapidfuzz
+scikit-learn
+tqdm
+numpy
+matplotlib
+datasets
+pandas
