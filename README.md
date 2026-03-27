@@ -8,7 +8,7 @@
 
 ## Overview
 
-This repository contains the full implementation for our MSR 2026 paper, which presents a large-scale behavioral study of five major AI code generation agents — **Claude Code, Copilot, Cursor, Devin, and OpenAI Codex** — across real-world GitHub pull requests.
+This repository contains the full implementation for our MSR 2026 paper, which presents a large-scale behavioral study of five major AI code generation agents **Claude Code, Copilot, Cursor, Devin, and OpenAI Codex**  across real-world GitHub pull requests.
 
 We investigate two core research questions:
 
