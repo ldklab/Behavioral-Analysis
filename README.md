@@ -12,8 +12,8 @@ This repository contains the full implementation for our MSR 2026 paper, which p
 
 We investigate two core research questions:
 
-- **RQ1 — Edit or Rewrite?** Do agents tend to incrementally modify existing code, or do they substantially replace it?
-- **RQ2 — How repetitive is each agent?** Do agents generate diverse, novel code, or do they recycle patterns and token sequences?
+- **RQ1: Edit or Rewrite?** Do agents tend to incrementally modify existing code, or do they substantially replace it?
+- **RQ2: How repetitive is each agent?** Do agents generate diverse, novel code, or do they recycle patterns and token sequences?
 
 Using token-level similarity metrics (Jaccard, TF-IDF cosine, fuzzy matching) and repetition analysis (n-gram distributions, Shannon entropy), we characterize the behavioral signatures of each agent across five programming languages: **TypeScript, Python, Go, Java, and C#**.
 
