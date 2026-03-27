@@ -265,6 +265,7 @@ If you use this code or findings in your work, please cite:
 @inproceedings{abazar2026behavioral,
   title     = {Behavioral Analysis of AI Code Generation Agents: Edit, Rewrite, and Repetition},
   author    = {Abazar, Mahdieh and Farahmand, Reyhaneh and Ginde, Gouri and Tan, Benjamin and De Carli, Lorenzo},
+  note      = {Abazar and Farahmand contributed equally as first authors},
   booktitle = {Proceedings of the 23rd International Conference on Mining Software Repositories (MSR '26)},
   year      = {2026},
   month     = {April},
@@ -273,15 +274,23 @@ If you use this code or findings in your work, please cite:
   doi       = {10.1145/3793302.3793605},
   isbn      = {979-8-4007-2474-9}
 }
+}
 ```
 
 ---
 
 ## Authors
 
-**Mahdieh Abazar** ✦ **Reyhaneh Farahmand** *(equal contribution)*
-Gouri Ginde · Benjamin Tan · Lorenzo De Carli
-
+<table>
+  <tr>
+    <td align="center"><b>Mahdieh Abazar*</b><br/>mahdieh.abazar@ucalgary.ca</td>
+    <td align="center"><b>Reyhaneh Farahmand*</b><br/>reyhaneh.farahmand@ucalgary.ca</td>
+    <td align="center">Gouri Ginde<br/>gouri.ginde@ucalgary.ca</td>
+    <td align="center">Benjamin Tan<br/>benjamin.tan1@ucalgary.ca</td>
+    <td align="center">Lorenzo De Carli<br/>lorenzo.decarli@ucalgary.ca</td>
+  </tr>
+</table>
+* Both authors contributed equally to this research.
 University of Calgary · Calgary, Alberta, Canada
 
 ---
