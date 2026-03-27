@@ -291,6 +291,7 @@ If you use this code or findings in your work, please cite:
   </tr>
 </table>
 * Both authors contributed equally to this research.
+
 University of Calgary · Calgary, Alberta, Canada
 
 ---
